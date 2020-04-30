@@ -1,2 +1,5 @@
 # web-340
-Node.js
+# contributors
+Node-js
+Professor Krasso - Bellevue University
+Darius Dinkins - Bellevue University
