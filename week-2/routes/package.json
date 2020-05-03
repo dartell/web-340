@@ -1,0 +1,8 @@
+{
+    "name": "routes",
+    "author": "Darius Dinkins",
+    "private": true,
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
