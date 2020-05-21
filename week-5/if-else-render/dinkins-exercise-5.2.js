@@ -22,7 +22,7 @@ var f = [
 //(routes) when the app is called render the array "f" under the names variable on the index page
 app.get("/", function(request, response) {
     response.render("index", {
-        names: f
+        names: f  //can check logic by making "names" an empty array
 
     });
 });
