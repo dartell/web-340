@@ -1,0 +1,12 @@
+{
+    "name": "test-example",
+    "author": "Darius Dinkins",
+    "private": true,
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^7.2.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    } 
+}
