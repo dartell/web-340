@@ -4,7 +4,7 @@ var logger = require('morgan');
 var mongoose = require("mongoose");
 
 
-var mongoDB = "mongodb+srv://dartell:j3X4EnC7cZqNqlJ4@buwebdev-cluster-1-dy3io.mongodb.net/test";;
+var mongoDB = "mongodb+srv://dartell:j3X4EnC7cZqNqlJ4@buwebdev-cluster-1-dy3io.mongodb.net/test";
 
 mongoose.connect(mongoDB, {
     useMongoClient: true

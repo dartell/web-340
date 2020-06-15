@@ -9,7 +9,7 @@
 */
 
 /* c:\>Node 
->console.log("Helo World");
+>console.log("Hello World");
 ^Opens REPL in the command line.
 
 To exit, use CTRL+D
